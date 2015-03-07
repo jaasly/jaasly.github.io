@@ -22,8 +22,7 @@ The blog present here is a summary of all my former blogs (I was used to modifyi
     2013-now	worked in Jiangsu Academy of Agricultural Sciences (JAAS) as a Professor Assistant.
 
 
-**Focus on **
-
+**Focus on**
 regional Soil Organic Carbon evaluation. 
 
 crop phenology under meteorological disaster (waterlogging and heat).
