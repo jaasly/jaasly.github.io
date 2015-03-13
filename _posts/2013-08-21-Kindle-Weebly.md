@@ -2,7 +2,7 @@
 layout: post
 category : Reviews
 title: Kindle的故事
-tags : [book，life]
+tags : [book,life]
 ---
 
 

@@ -1,4 +1,11 @@
-## 双年展 ##
+---
+layout: post
+category : Travels
+title: 双年展
+tags : [trip, life, Shanghai]
+---
+
+
 
 从上海大剧院画廊穿过就是上海美术馆
 

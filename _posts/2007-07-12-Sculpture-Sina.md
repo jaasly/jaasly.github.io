@@ -2,7 +2,7 @@
 layout: post
 category : Diaries
 title: 难念的经
-tags : [life，Shanghai]
+tags : [life,Shanghai]
 ---
 ## 难念的经 ##
 

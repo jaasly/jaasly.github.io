@@ -2,7 +2,7 @@
 layout: post
 category : Diaries
 title: 赠刀
-tags : [life，Yichun,poem]
+tags : [life,Yichun,poem]
 ---
 ## 赠刀 ##
 

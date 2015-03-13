@@ -1,4 +1,10 @@
-## 中秋杂诗  ##
+---
+layout: post
+category : Diaries
+title: 中秋杂诗
+tags : [life, Shanghai]
+---
+
 
 独在异乡为异客
 

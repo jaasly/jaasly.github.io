@@ -2,7 +2,7 @@
 layout: post
 category : Diaries
 title: 大儒若愚
-tags : [life，Yichun]
+tags : [life,Yichun]
 ---
 
 

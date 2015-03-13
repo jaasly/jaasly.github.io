@@ -2,7 +2,7 @@
 layout: post
 category : Diaries
 title: 雨中情
-tags : [life，Shanghai]
+tags : [life,Shanghai]
 ---
 
 

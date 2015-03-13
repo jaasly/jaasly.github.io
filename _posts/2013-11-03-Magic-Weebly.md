@@ -2,7 +2,7 @@
 layout: post
 category : Reviews
 title: 魔术的魅力
-tags : [book，movie]
+tags : [book,movie]
 ---
 
 
