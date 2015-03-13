@@ -2,7 +2,7 @@
 layout: post
 category : 仙剑
 title: 仙剑出鞘
-tags : [其他]
+tags : [仙思]
 ---
 
 

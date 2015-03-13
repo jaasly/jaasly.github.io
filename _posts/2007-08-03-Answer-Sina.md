@@ -2,7 +2,7 @@
 layout: post
 category : Diaries
 title: 被小黑点名
-tags : [点名]
+tags : [answer]
 ---
 
 

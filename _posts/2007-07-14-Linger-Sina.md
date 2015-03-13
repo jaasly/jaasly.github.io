@@ -2,7 +2,7 @@
 layout: post
 category : Reviews
 title: 灵儿,又见灵儿
-tags : [game]
+tags : [仙思]
 ---
 
 

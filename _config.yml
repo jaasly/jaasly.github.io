@@ -6,7 +6,6 @@ permalink: /:categories/:year/:month/:day/:title
 paginate: 10
 pygments: true
 encoding: utf-8
-markdown: redcarpet
 categories_path : /categories.html
 tags_path : /tags.html
 
@@ -15,7 +14,7 @@ title : 牛羊下山了
 author :
   name : Yang Liu
   email : luisyang@126.com
-  github : hejaz
+  github : jaasly
 
 
 
