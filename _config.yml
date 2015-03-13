@@ -6,4 +6,12 @@ permalink: /:year/:month/:day/:title/
 paginate: 10
 pygments: true
 
+archive_path: /archive.html
+categories_path : /categories.html
+tags_path : /tags.html
+
+JB :
+  version : 0.3.0
+
+
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
