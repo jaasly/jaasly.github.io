@@ -4,7 +4,7 @@ category : Diaries
 title: 一病入冬
 tags : [life]
 ---
-## 一病入冬 ##
+
 
 或许真的是很久没生病了，当病真正降临的时候，不知所措
 

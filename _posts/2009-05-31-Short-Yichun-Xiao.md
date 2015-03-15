@@ -4,7 +4,7 @@ category : Diaries
 title: 最短的宜春
 tags : [Yichun]
 ---
-## 最短的宜春 ##
+
 
 记得以前最短是五一回家，不过这次更短，睡了三个晚上，我就离开
 

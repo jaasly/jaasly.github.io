@@ -4,7 +4,7 @@ category : Reviews
 title: 关于脑残
 tags : [movie]
 ---
-## 关于脑残 ##
+
 
 
 最近在看《恶作剧之吻》，我承认很喜欢，也承认有些脑残了。。。。

@@ -4,7 +4,7 @@ category : Diaries
 title: 难念的经
 tags : [life,Shanghai]
 ---
-## 难念的经 ##
+
 
 ![](http://img3.douban.com/view/photo/photo/public/p2188737753.jpg)
 

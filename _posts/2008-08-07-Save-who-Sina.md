@@ -4,7 +4,7 @@ category : Diaries
 title: 关于落水救人问题
 tags : [life]
 ---
-## 关于落水救人问题 ##
+
 
 
 有一天,老妈和老婆同时落水,你先救谁?
