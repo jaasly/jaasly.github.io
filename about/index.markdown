@@ -26,16 +26,16 @@ The blog present here is a summary of all my former blogs (I was used to modifyi
 
 **Focus on**
 
-regional Soil Organic Carbon evaluation. 
+Regional Soil Organic Carbon evaluation. 
 
-crop phenology under meteorological disaster (waterlogging and heat).
+Crop phenology under meteorological disaster (waterlogging and heat).
 
-crop growth model.
+Crop growth model.
 
 **Intersted in**
 
-remote sensing on agricultural sector.
+Remote sensing on agricultural sector.
 
-statistics.
+Statistics.
 
-python and R.
+Python and R.
