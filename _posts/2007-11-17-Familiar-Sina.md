@@ -33,3 +33,11 @@ tags : [life,Shanghai,poem]
 ---
  
 附记:十月初八,天适雨,寒难耐,游于沪西,景依然,人不再,慨积于胸,为文以铭之
+
+---
+
+![](http://img3.douban.com/view/photo/photo/public/p2233678685.jpg)
+
+![](http://img5.douban.com/view/photo/photo/public/p2233678799.jpg)
+
+![](http://img3.douban.com/view/photo/photo/public/p2233678803.jpg)

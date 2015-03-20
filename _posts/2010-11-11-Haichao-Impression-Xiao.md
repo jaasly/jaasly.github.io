@@ -5,6 +5,9 @@ title: 印象-海巢
 tags : [trip, poem]
 ---
 
+![](http://fmn.xnpic.com/fmn054/20101110/1315/p_large_Pslr_321c000b6d0a5c41.jpg)
+
+
 
 到厦门的第一天，天气炎炎，甩开去看金门的大部队，偷组去海巢的小分队
 
@@ -23,3 +26,12 @@ tags : [trip, poem]
 离开的时候，什么都没有说，说什么也没人懂，沿着最爱的环岛路，看一对对新人在拍婚纱照，这里的景色其实也没有那么美，只是缓缓坠入海中的夕阳下，咸风拂过
 
 天荒地老，海枯石烂，是不用说出来的
+
+---
+
+![](http://fmn.xnpic.com/fmn047/20101110/1305/p_large_eISe_5295000a41e85c42.jpg)
+![](http://fmn.xnpic.com/fmn050/20101110/2015/p_large_nFaf_68c50003f1445c43.jpg)
+![](http://fmn.xnpic.com/fmn053/20101110/1315/p_large_3daH_2f9e0006e6895c16.jpg)
+![](http://fmn.xnpic.com/fmn050/20101110/1305/p_large_3oLq_3c750002757a5c40.jpg)
+![](http://fmn.xnpic.com/fmn053/20101110/1305/p_large_bKUE_3c7d000ef73d5c40.jpg)
+![](http://fmn.rrfmn.com/fmn048/20101110/1305/p_large_M9Bx_3c7d000ef7465c40.jpg)
