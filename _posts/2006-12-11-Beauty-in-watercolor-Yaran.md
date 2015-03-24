@@ -5,6 +5,7 @@ title: 水彩伊人
 tags : [life,love,poem,Shanghai]
 ---
 
+![](http://img3.douban.com/view/photo/photo/public/p1529492682.jpg)
 
 这学期因为课业不忙,就选了三门选修课,其中有一门是素描,心仪许久的课了
 

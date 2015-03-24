@@ -13,15 +13,15 @@ tags : [life, Shanghai]
 ---
 How does the day and night made?
 
-without you,there're no differences
+Without you,there're no differences
 
-How can children see the it clearly?
+How can children see it clearly?
 
-as the globe turned,the parts of you and me in the world are the same,no matter darkness or light
+As the globe turned,the parts of you and me in the world are the same,no matter darkness or light
 
 Which material reflict light better than others?
 
-the mirror may be,so does my glasses,my eyes,my heart~
+The mirror may be,so does my glasses,my eyes,my heart~
 
 ---
 天若有情天亦老
@@ -49,6 +49,7 @@ the mirror may be,so does my glasses,my eyes,my heart~
 N年后  一个指挥
 
 ---
+
 素鸡虽胜孙记,往事难忆
 
 梧桐难怜同济,顿生秋意
