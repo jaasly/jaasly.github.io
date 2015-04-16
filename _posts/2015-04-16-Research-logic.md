@@ -1,7 +1,7 @@
 ---
 layout: post
 category : Diaries
-title:科研的逻辑——之一
+title: 科研的逻辑——之一
 tags : [study]
 
 ---
