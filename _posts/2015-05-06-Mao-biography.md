@@ -1,7 +1,7 @@
 ---
 layout: post
 category : Reviews
-title: 毛泽东自传
+title: 毛泽东传
 tags : [book]
 
 ---
