@@ -1,7 +1,7 @@
 ---
 layout: post
-category : Reviews
-title: 李长生教授逝世
+category : Diaries
+title: 纪念李长生老师
 tags : [book]
 
 ---
