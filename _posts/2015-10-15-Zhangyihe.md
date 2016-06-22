@@ -2,26 +2,37 @@
 layout: post
 category : Reviews
 <<<<<<< HEAD:_posts/2015-11-19-Zhangyihe.md
+<<<<<<< HEAD:_posts/2015-11-19-Zhangyihe.md
 title: 娇小姐眼中的当代史
 =======
 title: 四大名捕
 >>>>>>> parent of 2e77629... new:_posts/2015-10-15-Zhangyihe.md
+=======
+title: 往事并不如烟
+>>>>>>> parent of d4f9709... new:_posts/2015-10-15-Zhangyihe.md
 tags : [book]
 
 ---
 
 <<<<<<< HEAD:_posts/2015-11-19-Zhangyihe.md
+<<<<<<< HEAD:_posts/2015-11-19-Zhangyihe.md
 ![](http://img4.douban.com/lpic/s1108667.jpg)
+=======
+往事并不如烟
+>>>>>>> parent of d4f9709... new:_posts/2015-10-15-Zhangyihe.md
 
-[往事并不如烟](http://book.douban.com/subject/1059336/)
-
-[巨流河](http://jaasly.github.io/reviews/2013/09/01/Flowing-river-Weebly/)
+巨流河
 
 ---
 
+娇小姐眼中的当代史
+
+读过巨流河后，余味很糟，总有些
 
 
-读过巨流河后，余味很糟，而读过往事并不如烟之后，觉得与巨流河很相似，但又很不同，虽然两位作者写的都是响当当的贵小姐，结果都受到政治上的风波，最终写了一本回忆录。
+而读过往事并不如烟之后，觉得与巨流河很相似，但又很不同，虽然两位作者写的都是响当当的贵小姐，结果都受到政治上的风波，
+
+
 
 
 ---
@@ -52,7 +63,7 @@ tags : [book]
 
 ---
 
-章伯钧对自己有很好的认识，以学习的名义出国深造，但终是没有成为一个学者，而成为一个政治活动家。
+章伯钧对自己有很好的认识，以学习的名义出国深造，但终是没有成为一个学者，而成为一个政治活动家
 
 他联系了一些党派，组织活动，反对了国民党，帮助太祖建国。
 
